@@ -1,0 +1,9 @@
+## Interface: 40300
+## Title: Battleground Legends
+## Notes: A battleground kill announcer
+## Author: Mihapro
+## SavedVariables: BGL_Data, BGL_Settings
+
+BGLegends.lua
+BGLegends_Announcer.lua
+BGLegends_Options.lua
