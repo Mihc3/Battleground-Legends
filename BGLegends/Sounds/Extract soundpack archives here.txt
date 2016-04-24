@@ -1,0 +1,3 @@
+Drag and drop the root folder from the sound pack archive to your ".../World of Warcraft/Interface/AddOns/BGLegends/Sounds" folder.
+ • Example of a correct sound file path: .../World of Warcraft/Interface/AddOns/BGLegends/Sounds/LOL_Announcer/Other Kill/Executed.OGG
+ • Click on the Preview button in BGL options frame to test if sounds are installed correctly.
